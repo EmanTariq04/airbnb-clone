@@ -383,7 +383,7 @@ nav .fa-bars {
 
 .navbar-white {
     background: #fff;
-    box-shadow: 1 5px 10px rgba(0, 0, 0, 0.05);
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.05);
 }
 
 .navbar-white .nav-links li a {
@@ -451,4 +451,33 @@ nav .fa-bars {
     color: #333;
     font-size: 22px;
     margin: 4px 0;
+}
+
+.house-info i {
+  color: #ff5361;
+  font-size: 18px;
+  margin: 10px 1px;
+}
+
+.house-price {
+  text-align: right;
+}
+
+.house-price h4 {
+  font-size: 20px;
+}
+
+.house-price h4 span {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.sidebar {
+  border: 1px solid #999;
+  padding: 20px 30px;
+  margin-top: 30px;
+}
+
+.sidebar h2 {
+  font-weight: 500;
 }
